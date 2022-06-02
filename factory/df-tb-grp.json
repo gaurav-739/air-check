@@ -1,0 +1,9 @@
+{
+	"name": "df-tb-grp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31e0b75a-9843-4530-b888-2967de816590",
+		"tenantId": "10f6e1ce-d6fa-4601-9b2c-18a9801cac2b"
+	}
+}
