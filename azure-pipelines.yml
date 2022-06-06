@@ -1,5 +1,5 @@
 # HTML
- task: AzureFileCopy@4
+- task: AzureFileCopy@4
   inputs:
     SourcePath: 'azureblobstoragesource'
     azureSubscription: 'Free Trial (a93a2b02-8b20-400a-b530-cfdf2aa27c12)'
