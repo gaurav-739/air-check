@@ -5,7 +5,7 @@
     azureSubscription: 'Free Trial (a93a2b02-8b20-400a-b530-cfdf2aa27c12)'
     Destination: 'AzureBlob'
     storage: 'gauravazurestorage1'
-    ContainerName: 'newcontainername'
+    ContainerName: 'newcontainer'
 # Archive your static HTML project and save it with the build record.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
